@@ -5,8 +5,8 @@
 ## Research Area
 * Material modelling: elastoplasticity, dielectric elastomer, magnetic elastomer
 * Numerical methods: FEM, meshfree method, beam dynamics, multibody dynamics
-* Optimal Control: 
 * Efficient Simulation: Reduced order modelling and Machine learning
+* Optimal Control: 
 
 
 ## Publication

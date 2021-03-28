@@ -4,7 +4,7 @@
 [Research Gate](https://www.researchgate.net/profile/Dengpeng-Huang-2)
 ## Research Area
 * Material modelling: elastoplasticity, viscoelasticity, dielectric elastomer, magnetic elastomer
-* Numerical methods: finite element method, meshfree method, geometrically exact beam, multibody system dynamics
+* Numerical methods: finite element method, meshfree method, beam dynamics, multibody dynamics
 * Optimal Control: 
 * Efficient Simulation: Reduced order modelling and Machine learning
 

@@ -3,10 +3,11 @@
 [ORCID](https://orcid.org/0000-0002-9160-4533) |
 [Research Gate](https://www.researchgate.net/profile/Dengpeng-Huang-2)
 ## Research Area
-* Material modelling: elastoplasticity, viscoelasticity, dielectric elastomer, magnetic elastomer
-* Numerical methods: finite element method, meshfree method, beam dynamics, multibody dynamics
+* Material modelling: elastoplasticity, dielectric elastomer, magnetic elastomer
+* Numerical methods: FEM, meshfree method, beam dynamics, multibody dynamics
 * Optimal Control: 
 * Efficient Simulation: Reduced order modelling and Machine learning
+
 
 ## Publication
 1. D. Huang*, S. Leyendecker. An electromechanically coupled beam model for dielectric elastomer actuators. arXiv:2103.06373 (2021).

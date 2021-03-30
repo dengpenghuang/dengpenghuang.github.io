@@ -3,6 +3,7 @@
 [ORCID](https://orcid.org/0000-0002-9160-4533) |
 [Research Gate](https://www.researchgate.net/profile/Dengpeng-Huang-2)
 ## Research Area
+Modelling and Control of soft robotics
 * Material modelling: elastoplasticity, dielectric elastomer, magnetic elastomer
 * Numerical methods: FEM, meshfree method, beam dynamics, multibody dynamics
 * Efficient Simulation: Reduced order modelling and Machine learning

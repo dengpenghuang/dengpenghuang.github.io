@@ -1,13 +1,12 @@
-
 [Google Scholar](https://scholar.google.de/citations?user=MFS7QQIAAAAJ&hl=de) |
 [ORCID](https://orcid.org/0000-0002-9160-4533) |
 [Research Gate](https://www.researchgate.net/profile/Dengpeng-Huang-2)
 ## Research Area
 Modelling and Control of Soft Robotics
-* Material modelling: elastoplasticity, dielectric elastomer, magnetic elastomer
-* Numerical methods: FEM, meshfree method, beam dynamics, multibody dynamics
-* Efficient Simulation: Reduced order modelling and Machine learning
-* Optimal Control: 
+* material modelling: elastoplasticity, dielectric elastomer, magnetic elastomer
+* numerical methods: FEM, meshfree method, beam dynamics, multibody dynamics
+* efficient simulation: reduced order modelling and machine learning
+* optimal control: 
 
 
 ## Publication

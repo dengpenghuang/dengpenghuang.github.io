@@ -13,9 +13,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Topics</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>theoretical, computational and experimental.</p>
 	</div>
 </section>
 
@@ -28,9 +28,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Micromechanics of polymer-filler-oil mixture</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>How to predict the constitutive behavior of elastomer which is composed of cross-linked polymer chians, locked filler networks and oil/resin? The interfaces inside this mixture contributes a lot to the material behavior, e.g. viscosity. To adress this proeblem, several approaches can be used, e.g. entending the classical chain model, Invariant based model, or multiscale model. This model will be build to accound for only a few set of polymer chains or networks. Idealy, the chemo-mechanical coupling can be accounted for.</p>
 				<ul class="actions">
 					<li><a href="research.html" class="button">Learn more</a></li>
 				</ul>
@@ -44,9 +44,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Data-driven material modeling</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>How to predict the material property based on the measurment data, e.g. hardening test, tensile test, relaxation testing, creep testing, dynamic testing using DMTA, friction testing using LAT100? Also, the graphic information of the elastomer, e.g. the microscopic morphology, the dispersion infromaton, can be used for prediction of its propery. Is it possible to use the images of slices to regenerate the whole geometry.</p>
 				<ul class="actions">
 					<li><a href="research.html" class="button">Learn more</a></li>
 				</ul>
@@ -60,9 +60,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Sed nunc ligula</h3>
+					<h3>Soft robotics</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>The 1st part is about the active materials for soft robotics. The 2nd part is about the simulation of soft robotics, e.g. robotic hand, using beam, shell and continuum.</p>
 				<ul class="actions">
 					<li><a href="research.html" class="button">Learn more</a></li>
 				</ul>

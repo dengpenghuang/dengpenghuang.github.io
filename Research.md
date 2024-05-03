@@ -23,7 +23,7 @@ nav-menu: true
 			<li> Frequency domain description - oscillatory test </li>
 			<li> Maxwell model and WLF equation</li>
 			<li> Parameter Identification for extended model </li>
-			<li> ML to capture micro-features like CLD, interfaces and filler stuctures</li>
+			<li> ML to capture micro-features like ccross linking density, interfaces and filler stuctures</li>
 		</dd>
 	</dl>
 	<br />

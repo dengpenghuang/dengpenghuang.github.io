@@ -1,87 +1,73 @@
 ---
 title: About Me
 layout: landing
-description: 'landing description.'
+description: 'd.huang@utwente.nl, Faculty of Engineering Technology, University of Twente, De Horst 2, 7522LW Enschede, The Netherlands'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
 
+
 <!-- Main -->
-<div id="main">
+<div id="main" class="alt">
 
 <!-- One -->
 <section id="one">
 	<div class="inner">
-		<header class="major">
-			<h2>Sed amet aliquam</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
-	</div>
-</section>
+		
+<!-- Professional Experience -->
+<h3 id="one">Professional Experience</h3>
+<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>03/2023 - present</td>
+				<td>Assistant Professor</td>
+				<td>University of Twente, The Netherlands</td>
+			</tr>
+			<tr>
+				<td>01/2020 - 02/2023</td>
+				<td>Postdoc Researcher</td>
+				<td>University of Erlangen-Nuremberg, Germany</td>
+			</tr>
+			<tr>
+				<td>11/2019 - 12/2019</td>
+				<td>Visiting Researcher</td>
+				<td>Technical University of Dresden, Germany</td>
+			</tr>
+			<tr>
+				<td>09/2015 - 11/2019</td>
+				<td>Research Assistant</td>
+				<td>Leibniz University of Hannover, Germany</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
 
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="research.html" class="image">
-			<img src="{% link assets/images/pic08.jpg %}" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="research.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="research.html" class="image">
-			<img src="{% link assets/images/pic09.jpg %}" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="research.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="research.html" class="image">
-			<img src="{% link assets/images/pic10.jpg %}" alt="" data-position="25% 25%" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Sed nunc ligula</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-				<ul class="actions">
-					<li><a href="research.html" class="button">Learn more</a></li>
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
 
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>About Me</h2>
-		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
-		<ul class="actions">
-			<li><a href="research.html" class="button next">Get Started</a></li>
-		</ul>
-	</div>
-</section>
 
+<!-- Professional Experience -->
+<h3 id="one">Education</h3>
+<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>09/2015 - 11/2019</td>
+				<td>PhD (2020)</td> 
+				<td>Computational Mechanics</td> 
+				<td>Leibniz University of Hannover, Germany</td>
+			</tr>
+			<tr>
+				<td>09/2012 - 06/2015</td>
+				<td>MSc</td> 
+				<td>Mechanical Engineering</td>
+				<td>Jilin University, China</td>
+			</tr>
+			<tr>
+				<td>09/2008 - 06/2012</td>
+				<td>BSc</td>
+				<td>Mechanical Engineering</td> 
+				<td>Shandong University, China</td>
+			</tr>
+		</tbody>
+	</table>
 </div>

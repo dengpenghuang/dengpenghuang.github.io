@@ -1,3 +1,13 @@
+site is defined in _config.yml
+layout of pages are definded in _layout using html5
+head, foot and title of pages are defined in _includes
+images are stored in folder assets
+.md files are markdown files
+edit content in .md files:
+	text betweet <dl> </dl> is inline html format
+	other texts can be formated using formats in Markdown Cheatsheet 
+
+-------------------------------------------------------------
 # Forty - Jekyll Theme
 
 A Jekyll version of the "Forty" theme by [HTML5 UP](https://html5up.net/).  

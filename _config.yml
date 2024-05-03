@@ -21,10 +21,12 @@
 title: Dengpeng Huang
 email: dpwongg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computational Mechanics | Multibody System Dynamics | Dielectric Elastomers | Machine Learning
+  Computational Modeling | Experimental Characterization | Machine Learning | Process Simulation
+
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  dengpenghuang
+
 
 # Build settings
 theme: minima

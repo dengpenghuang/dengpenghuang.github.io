@@ -125,7 +125,7 @@ nav-menu: true
 <dl> 
 	<dt>Simulation of Injection Moulding (SIM)</dt>
 	<dd>
-		<p>The main advantages of the injection molding are found in the high freedom of design, automatic mass production and low costs relative to the number of parts. On the downside, the large amount of design settings complicates the process. Hence, it is a challenge to obtain minimum cycle times while maintaining the required product quality. The computational modeling tools allow us to predict the influences of the design settings on the final product quality and to optimize the injection moulding process accordingly.</p>
+		<p>The main advantages of the injection molding are found in the high freedom of design, automatic mass production and low costs relative to the number of parts. On the downside, the large amount of design settings complicates the process. Hence, it is a challenge to obtain minimum cycle times while maintaining the required product quality. The computational modeling tools allow us to predict the influences of the design settings on the final product quality and to optimize the injection moulding process accordingly. In this course, the equipment, the material model, the process parameters and the simulation results are discussed.</p>
 	</dd>
 </dl>
 </p>
@@ -136,16 +136,22 @@ nav-menu: true
 	<table>
 		<tbody>
 			<tr>
-				<td>Finite Element Method</td>
+				<td>Finite Element Method (Linear and Nonlinear)</td>
 			</tr>
 			<tr>
-				<td>Continuum Mechanics</td>
+				<td>Continuum Mechanics (or Mechanics of Materials)</td>
 			</tr>
 			<tr>
-				<td>Multibody System Dynamics</td>
+				<td>Statics</td>
+			</tr>
+			<tr>
+				<td>Dynamics (including Multibody System Dynamics)</td>
 			</tr>
 			<tr>
 				<td>Beams and Shells</td>
+			</tr>
+			<tr>
+				<td>Numerical Methods</td>
 			</tr>
 		</tbody>
 	</table>

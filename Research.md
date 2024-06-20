@@ -13,17 +13,19 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Data-driven Modeling of Elastomers</h2>
+			<h2>Modeling of Elastomers and Friction</h2>
 		</header>
 	<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span> 
 	<dl> 
 		<dt>Thermo-Visco-Elasticity, Data-Driven Modeling, Polymer-Filler-Plasticizer Mixture</dt>
 		<dd>
-			<li> Time domain description - stress relaxation test </li>
-			<li> Frequency domain description - oscillatory test </li>
-			<li> Maxwell model and WLF equation</li>
-			<li> Parameter Identification for extended model </li>
-			<li> ML to capture micro-features like ccross linking density, interfaces and filler stuctures</li>
+			<li> Data-driven modeling of thermo-visco-elasticity, linear, nonlinear, DMA, relaxation (*)</li>
+			<li> CB aggregates generation, strain energy based homogenization, hyperelasticity</li>
+			<li> Friction of elastomers: adhesion and hysteresis, $\mu=f(T, v)$</li>
+			<li> Dynamic mechanical properties in large deformation</li>
+			<li> 3D printing of elastomers (*)</li>
+			<li> Characterize rheology properties in extrusion process</li>
+			<li> ML for prediction of elastomer properties (*)</li>
 		</dd>
 	</dl>
 	<br />

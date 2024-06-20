@@ -131,5 +131,27 @@ nav-menu: true
 </p>
 </div>
 
+<h3 id="elements">Other courses</h3>
+<div class="table-wrapper">
+	<table>
+		<tbody>
+			<tr>
+				<td>Finite Element Method</td>
+			</tr>
+			<tr>
+				<td>Continuum Mechanics</td>
+			</tr>
+			<tr>
+				<td>Multibody System Dynamics</td>
+			</tr>
+			<tr>
+				<td>Beams and Shells</td>
+			</tr>
+		</tbody>
+	</table>
+</div>
+
+
+
 </div>
 </section>

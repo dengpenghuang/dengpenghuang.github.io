@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'empowering design of sustainable and smart elastomers with computational, experimental and machine learning approaches'
+description: 'empowering design of sustainable and smart elastomers with data- and AI-integrated simulation.'
 image: assets/images/peak.jpg
 nav-menu: true
 ---
@@ -13,19 +13,23 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Modeling of Elastomers and Friction</h2>
+			<h2>Data-Integrated Modeling of Elastomers</h2>
 		</header>
 	<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span> 
 	<dl> 
-		<dt>Thermo-Visco-Elasticity, Data-Driven Modeling, Polymer-Filler-Plasticizer Mixture</dt>
+		<dt>Thermo-Visco-Elasticity, Polymer-Filler-Plasticizer Mixture, Machine Learning</dt>
 		<dd>
-			<li> Data-driven modeling of thermo-visco-elasticity, linear, nonlinear, DMA, relaxation (*)</li>
-			<li> CB aggregates generation, strain energy based homogenization, hyperelasticity</li>
-			<li> Friction of elastomers: adhesion and hysteresis, $\mu=f(T, v)$</li>
-			<li> Dynamic mechanical properties in large deformation</li>
-			<li> 3D printing of elastomers (*)</li>
-			<li> Characterize rheology properties in extrusion process</li>
-			<li> ML for prediction of elastomer properties (*)</li>
+			<li> A - Data-driven modeling of thermo-visco-elasticity at small and finite deformation</li>
+			<li> P - CB aggregates generation, strain energy based homogenization, hyperelasticity</li>
+			<li> B - Data science and AI for prediction of elastomer properties, - link the scales</li>
+		</dd>
+		<dt>Tire wet grip</dt>
+		<dd>
+			<li> E - Friction of elastomers: adhesion and hysteresis, $\mu=f(T, v)$ link the scales</li>
+		</dd>
+		<dt>Extrusion and 3D printing (polymer flow)</dt>
+		<dd>
+			<li> M - Extrusion rheology and 3D printing of elastomers</li>
 		</dd>
 	</dl>
 	<br />

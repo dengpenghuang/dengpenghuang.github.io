@@ -1,6 +1,7 @@
 ---
 title: Teaching
 layout: landing
+description: 'Bachelor and Master in Mechanical Engineering'
 image: assets/images/sea.jpg
 nav-menu: true
 ---

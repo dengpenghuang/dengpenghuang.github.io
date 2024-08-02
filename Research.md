@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'Numerical Simulaiton for: Tire Wet Grip | Extrusion | 3D Printing | Soft Robotics'
+description: 'Computational Elastomer Mechanics for | Tire Wet Grip | 3D Printing | Soft Robotics'
 image: assets/images/peak.jpg
 nav-menu: true
 ---

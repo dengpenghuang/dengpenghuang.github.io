@@ -1,7 +1,7 @@
 ---
 title: About Me
 layout: landing
-description: 'D. Huang, Assistant Professor, Faculty of Engineering Technology, University of Twente, De Horst 2, 7522LW Enschede, The Netherlands'
+description: 'Dengpeng Huang | Assistant Professor | University of Twente | The Netherlands | d.huang@utwente.nl'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---

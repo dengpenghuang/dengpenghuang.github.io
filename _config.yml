@@ -22,7 +22,7 @@ title: Dengpeng Huang
 # subtitle: by HTML5 UP
 email: dpwongg@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
- Data-Integrated Simulation for: Tire Wet Grip | Extrusion | 3D Printing | Soft Robotics |
+ empowering design of elastomers with data- and AI-integrated simulation
 
 # baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
@@ -30,7 +30,7 @@ github_username:  dengpenghuang
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
-tiles-count: 2
+tiles-count: 3
 
 # Build settings
 theme: minima

@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'empowering design of sustainable and smart elastomers with data- and AI-integrated simulation.'
+description: 'Numerical Simulaiton for: Tire Wet Grip | Extrusion | 3D Printing | Soft Robotics'
 image: assets/images/peak.jpg
 nav-menu: true
 ---

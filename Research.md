@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 	<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span> 
 	<dl> 
-		<dt>Thermo-Visco-Elasticity of the Polymer-Filler-Plasticizer Mixture</dt>
+		<dt>Elastomer Mechanics (understanding the polymer-filler-plasticizer mixture)</dt>
 		<dd>
 			<li> A - Data-driven modeling of thermo-visco-elasticity at small and finite deformation</li>
 			<li> P - CB aggregates generation, strain energy based homogenization, hyperelasticity - link the scales</li>

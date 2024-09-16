@@ -13,35 +13,33 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Data-Integrated Modeling of Elastomers</h2>
+			<h2>Mechanics of Elastomers</h2>
 		</header>
-	<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span> 
-	<dl> 
-		<dt>Elastomer Mechanics (understanding the polymer-filler-plasticizer mixture)</dt>
-		<dd>
-			<li> A - Data-driven modeling of thermo-visco-elasticity at small and finite deformation</li>
-			<li> P - CB aggregates generation, strain energy based homogenization, hyperelasticity - link the scales</li>
-			<li> B - Data science and AI for prediction of elastomer properties, - link the scales</li>
-		</dd>
-		<dt></dt>
-		<dt>Tire Wet Grip (jump out of the magic triangle!)</dt>
-		<dd>
-			<li> E - Friction of elastomers: adhesion and hysteresis, mu=f(T, v)</li>
-			<li>Modeling across scales and bodies (Maco-micro roughness, materials/resins, contact patch)</li>
-			<li>ML for contact constitutive law and WG prediction - link the scales</li>
-		</dd>
-		<dt></dt>
-		<dt>3D Printing of Elastomers</dt>
-		<dd>
-			<li> Equipment development (hardware design, done)</li>
-			<li> M1 - Process development: material, extrusion rheology, printing paths(p,v,T), simulation of flow</li>
-			<li>M2 - Extrusion rheology</li>
-		</dd>
-		<dt></dt>
-		<dt>Dielectric Elastomers</dt>
-	</dl>
-	<br />
-	<br />
+		<!-- <span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span> -->
+		<dl> 
+			<dt>Material modelling</dt>
+			<dd>
+				<li> Linear and nonlinear thermo-visco-elasticity across scales</li>
+				<li> Multiscale modelling of CB filled elastomers, homogenization, hyperelasticity</li>
+			</dd>
+			<dt></dt>
+			<dt>Rubber friction</dt>
+			<dd>
+				<li>Friction mechanism: adhesion and hysteresis, mu=f(T, v)</li>
+			</dd>
+			<dt></dt>
+			<dt>3D Printing of Elastomers</dt>
+			<dd>
+				<li> Process optimization: extrusion, printing paths(p,v,T), inter-layer adhesion</li>
+			</dd>
+			<dt></dt>
+			<dt>Data science and AI for elastomers</dt>
+			<dd>
+				<li>Learning mechanical properties from TEM images</li>
+			</dd>
+		</dl>
+		<br />
+		<br />
 	</div>
 </section>
 

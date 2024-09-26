@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'Computational Elastomer Mechanics for | Tire Wet Grip | 3D Printing | Soft Robotics |'
+description: 'Computational Mechanics for: Elastomers | 3D Printing | Soft Robotics | Metal Cutting'
 image: assets/images/peak.jpg
 nav-menu: true
 ---
@@ -15,27 +15,15 @@ nav-menu: true
 		<header class="major">
 			<h2>Mechanics of Elastomers</h2>
 		</header>
-		<!-- <span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span> -->
+		<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span>
 		<dl> 
-			<dt>Material modelling</dt>
+			<dt>Thermo-Viscoelasticity, Multiscale Modelling, Friction, 3D Printing, Data Science & AI</dt>
 			<dd>
 				<li> Linear and nonlinear thermo-visco-elasticity across scales</li>
-				<li> Multiscale modelling of CB filled elastomers, homogenization, hyperelasticity</li>
-			</dd>
-			<dt></dt>
-			<dt>Rubber friction</dt>
-			<dd>
-				<li>Friction mechanism: adhesion and hysteresis, mu=f(T, v)</li>
-			</dd>
-			<dt></dt>
-			<dt>3D Printing of Elastomers</dt>
-			<dd>
+				<li> Multiscale modelling of elastomers</li>
+				<li> Friction across scales: adhesion and hysteresis, mu=f(T, v)</li>
 				<li> Process optimization: extrusion, printing paths(p,v,T), inter-layer adhesion</li>
-			</dd>
-			<dt></dt>
-			<dt>Data science and AI for elastomers</dt>
-			<dd>
-				<li>Learning mechanical properties from TEM images</li>
+				<li> Filler analysis and property prediction using machine learning</li>
 			</dd>
 		</dl>
 		<br />
@@ -48,10 +36,10 @@ nav-menu: true
 <!-- Topic 2 -->
 <section id="two">
 	<div class="inner">
-	<header class="major">
+		<header class="major">
 			<h2>Dielectric Elastomers for Soft Robotics</h2>
 		</header>
-	<span class="image left"><img src="{% link assets/images/dea.jpg %}" alt="" /></span> 
+		<span class="image left"><img src="{% link assets/images/dea.jpg %}" alt="" /></span> 
 	<dl> 
 		<dt>Electromechanics, Geometrically Exact Beam, Multibody System Dynamics, Optimal Control</dt>
 		<dd>

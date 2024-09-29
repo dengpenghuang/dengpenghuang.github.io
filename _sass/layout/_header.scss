@@ -42,7 +42,7 @@
 					'color #{_duration(transition)} ease-in-out'
 				));
 				background-color: _palette(fg);
-				color: _palette(bg2);
+				color: _palette(transparent);
 				display: inline-block;
 				line-height: 1.65em;
 				margin-right: 0.325em;

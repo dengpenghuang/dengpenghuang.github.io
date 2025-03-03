@@ -1,7 +1,7 @@
 ---
 title: Research
 layout: landing
-description: 'Computational Mechanics for: Elastomers | 3D Printing | Soft Robotics | Metal Cutting'
+description: 'Modelling and Simulation of Elastomers | Soft Robotics | Metal Cutting'
 image: assets/images/peak.jpg
 nav-menu: true
 ---
@@ -17,13 +17,19 @@ nav-menu: true
 		</header>
 		<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span>
 		<dl> 
-			<dt>Thermo-Viscoelasticity, Multiscale Modelling, Friction, 3D Printing, Data Science & AI</dt>
+			<dt>Data Science and AI for Elastomers</dt>
 			<dd>
-				<li> Linear and nonlinear thermo-visco-elasticity across scales</li>
-				<li> Multiscale modelling of elastomers</li>
-				<li> Friction across scales: adhesion and hysteresis, mu=f(T, v)</li>
-				<li> Process optimization: extrusion, printing paths(p,v,T), inter-layer adhesion</li>
-				<li> Filler analysis and property prediction using machine learning</li>
+				<li> Property Prediction using Convolutional Neural Networks (CNN)</li>
+			</dd>
+			<br /> <!-- Add this line -->
+			<dt>Multiscale and Multiphysics modelling of Elastomers</dt>
+			<dd>
+				<li>Magnetorheological Elastomers (MREs), Filler Structure and Homogenization</li>
+			</dd>
+			<br /> <!-- Add this line -->
+			<dt>Experimental Mechanics of Elastomers</dt>
+			<dd>
+				<li>Thermo-viscoelasticity, Friction (adhesion and hysteresis), 3D Printing</li>
 			</dd>
 		</dl>
 		<br />

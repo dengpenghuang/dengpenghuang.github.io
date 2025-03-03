@@ -26,27 +26,17 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>11/2023 - 02/2024</td>
+				<td>11/2023, 11/2024</td>
 				<td>Simulation of Injection Molding</td>
 				<td>BSc</td>
 			</tr>
 			<tr>
-				<td>05/2024</td>
+				<td>05/2023, 05/2024</td>
 				<td>Elastomer Science and Engineering</td>
 				<td>MSc</td>
 			</tr>
 			<tr>
-				<td>05/2023</td>
-				<td>Elastomer Science and Engineering</td>
-				<td>MSc</td>
-			</tr>
-			<tr>
-				<td>10/2021</td>
-				<td>Matlab Programming for Dynamics</td>
-				<td>MSc</td>
-			</tr>
-			<tr>
-				<td>11/2020</td>
+				<td>11/2020, 10/2021</td>
 				<td>Matlab Programming for Dynamics</td>
 				<td>MSc</td>
 			</tr>

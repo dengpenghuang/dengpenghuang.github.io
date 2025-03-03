@@ -22,7 +22,7 @@ nav-menu: true
 				<li> Property Prediction using Convolutional Neural Networks (CNN)</li>
 			</dd>
 			<br /> <!-- Add this line -->
-			<dt>Multiscale and Multiphysics modelling of Elastomers</dt>
+			<dt>Multiscale and Multiphysics Modelling of Elastomers</dt>
 			<dd>
 				<li>Magnetorheological Elastomers (MREs), Filler Structure and Homogenization</li>
 			</dd>

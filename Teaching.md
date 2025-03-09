@@ -26,19 +26,24 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>11/2023, 11/2024</td>
+				<td>Q2/2023, Q2/2024</td>
 				<td>Simulation of Injection Molding</td>
-				<td>BSc</td>
+				<td>BSc-ME</td>
 			</tr>
 			<tr>
 				<td>05/2023, 05/2024</td>
 				<td>Elastomer Science and Engineering</td>
-				<td>MSc</td>
+				<td>MSc-ME</td>
+			</tr>
+			<tr>
+				<td>07/2024, 07/2025</td>
+				<td>Matching Day ME - Statics</td>
+				<td>BSc-ME</td>
 			</tr>
 			<tr>
 				<td>11/2020, 10/2021</td>
 				<td>Matlab Programming for Dynamics</td>
-				<td>MSc</td>
+				<td>MSc-ME</td>
 			</tr>
 		</tbody>
 	</table>
@@ -99,17 +104,17 @@ nav-menu: true
 			</tr>
 			<tr>
 				<td> C4 - Evaluation of Education</td>
-				<td>05/2024</td>
+				<td>10/2024</td>
 			</tr>
 			<tr>
 				<td> C5 - Professionalization</td>
-				<td>end 2024</td>
+				<td>10/2024</td>
 			</tr>
 		</tbody>
 	</table>
 </div>
 
-<h3>Course Info</h3>
+<h3>SIM Course Info</h3>
 <!-- SIM -->
 <div class="box">
 <p><span class="image left"><img src="{% link assets/images/dustpan.png %}" alt="" /></span> 
@@ -122,7 +127,7 @@ nav-menu: true
 </p>
 </div>
 
-<h3 id="elements">Other courses</h3>
+<h3 id="elements">Interested in Teaching:</h3>
 <div class="table-wrapper">
 	<table>
 		<tbody>

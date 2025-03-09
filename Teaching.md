@@ -64,12 +64,12 @@ nav-menu: true
 			<tr>
 				<td>04/2024 - 07/2024</td>
 				<td> Design of a Water Tower Support Structure</td>
-				<td>BSc</td>
+				<td>BSc-ME</td>
 			</tr>
 			<tr>
 				<td>04/2023 - 07/2023</td>
 				<td>Design of a Portable Maintenance Crane for Floating Wind Turbines</td>
-				<td>BSc</td>
+				<td>BSc-ME</td>
 			</tr>
 		</tbody>
 	</table>

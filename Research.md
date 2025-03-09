@@ -24,7 +24,7 @@ nav-menu: true
 			<br /> <!-- Add this line -->
 			<dt>Testing and Modelling of Elastomers</dt>
 			<dd>
-				<li>Thermo-viscoelasticity, Friction (adhesion and hysteresis), 3D Printing (extrusion, porosity and adhesion)</li>
+				<li>Thermo-viscoelasticity, Friction (adhesion, hysteresis), 3D Printing (extrusion, porosity, adhesion)</li>
 			</dd>
 			<br /> <!-- Add this line -->
 			<dt>Multiscale and Multiphysics Modelling of Elastomers</dt>

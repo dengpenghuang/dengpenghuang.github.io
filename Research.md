@@ -22,14 +22,14 @@ nav-menu: true
 				<li> Property Prediction using Convolutional Neural Networks (CNN)</li>
 			</dd>
 			<br /> <!-- Add this line -->
+			<dt>Testing and Modelling of Elastomers</dt>
+			<dd>
+				<li>Thermo-viscoelasticity, Friction (adhesion and hysteresis), 3D Printing (extrusion, porosity and adhesion)</li>
+			</dd>
+			<br /> <!-- Add this line -->
 			<dt>Multiscale and Multiphysics Modelling of Elastomers</dt>
 			<dd>
 				<li>Magnetorheological Elastomers (MREs), Filler Structure and Homogenization</li>
-			</dd>
-			<br /> <!-- Add this line -->
-			<dt>Experimental Mechanics of Elastomers</dt>
-			<dd>
-				<li>Thermo-viscoelasticity, Friction (adhesion and hysteresis), 3D Printing</li>
 			</dd>
 		</dl>
 		<br />

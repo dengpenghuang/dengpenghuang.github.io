@@ -19,7 +19,7 @@ nav-menu: true
 		<dl> 
 			<dt>Data Science and AI for Elastomers</dt>
 			<dd>
-				<li> Property Prediction using Convolutional Neural Networks (CNN)</li>
+				<li> Filler Dispersion Analysis, Property Prediction using Machine Learning</li>
 			</dd>
 			<br /> <!-- Add this line -->
 			<dt>Testing and Modelling of Elastomers</dt>

@@ -9,7 +9,7 @@ nav-menu: true
 <!-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
+<!-- Topic one -->
 <section id="one">
 	<div class="inner">
 		<header class="major">
@@ -17,19 +17,17 @@ nav-menu: true
 		</header>
 		<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span>
 		<dl> 
-			<dt>Data Science and AI for Elastomers</dt>
+			<dt>Multiscale Modelling with Machine Learning</dt>
 			<dd>
-				<li> Filler Dispersion Analysis, Property Prediction using Machine Learning</li>
+				<li> Filler Dispersion Analysis, Filler Modelling, Property Prediction</li>
 			</dd>
 			<br /> <!-- Add this line -->
-			<dt>Testing and Modelling of Elastomers</dt>
+			<dt>Modelling and Testing in Macroscale</dt>
 			<dd>
-				<li>Thermo-viscoelasticity, Friction (adhesion, hysteresis), 3D Printing (extrusion, porosity, adhesion)</li>
-			</dd>
-			<br /> <!-- Add this line -->
-			<dt>Multiscale and Multiphysics Modelling of Elastomers</dt>
-			<dd>
-				<li>Magnetorheological Elastomers (MREs), Filler Structure and Homogenization</li>
+				<li> D. Huang, A Blume. Modeling and characterization of thermo-viscoelastic behavior of rubber compounds. Journal of Materials Research and Technology, 39(2025):8024-8034.</li>
+				<ul class="actions">
+				<li><a href="https://doi.org/10.1016/j.jmrt.2025.11.129" class="button small">Learn more</a></li>
+				</ul>
 			</dd>
 		</dl>
 		<br />

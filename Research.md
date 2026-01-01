@@ -17,7 +17,7 @@ nav-menu: true
 		</header>
 		<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span>
 		<dl> 
-			<dt>Multiscale Modelling with Machine Learning</dt>
+			<dt> <li> Multiscale Modelling with Machine Learning </li></dt>
 			<dd>
 				<li> Filler Dispersion Analysis, Filler Modelling, Property Prediction</li>
 			</dd>

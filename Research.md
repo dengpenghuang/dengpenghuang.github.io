@@ -17,14 +17,14 @@ nav-menu: true
 		</header>
 		<span class="image left"><img src="{% link assets/images/rubber.jpg %}" alt="" /></span>
 		<dl> 
-			<dt> <li> Multiscale Modelling with Machine Learning </li></dt>
+			<dt><li> Multiscale Modelling with Machine Learning </li></dt>
 			<dd>
-				<li> Filler Dispersion Analysis, Filler Modelling, Property Prediction</li>
+				Filler Dispersion Analysis, Filler Modelling, Property Prediction
 			</dd>
 			<br /> <!-- Add this line -->
-			<dt>Modelling and Testing in Macroscale</dt>
+			<dt><li>Modelling and Testing in Macroscale</li></dt>
 			<dd>
-				<li> D. Huang, A Blume. Modeling and characterization of thermo-viscoelastic behavior of rubber compounds. Journal of Materials Research and Technology, 39(2025):8024-8034.</li>
+				D. Huang, A Blume. Modeling and characterization of thermo-viscoelastic behavior of rubber compounds. Journal of Materials Research and Technology, 39(2025):8024-8034.
 				<ul class="actions">
 				<li><a href="https://doi.org/10.1016/j.jmrt.2025.11.129" class="button small">Learn more</a></li>
 				</ul>

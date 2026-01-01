@@ -14,6 +14,8 @@ edit content in .md files:
 	other texts can be formated using formats in Markdown Cheatsheet 
 
 color, size and font are defined in "/_sass"
+	color of DH name and menu are defined in header.scss
+	
 -------------------------------------------------------------
 # Forty - Jekyll Theme
 

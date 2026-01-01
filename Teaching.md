@@ -26,17 +26,17 @@ nav-menu: true
 		</thead>
 		<tbody>
 			<tr>
-				<td>Q2/2023, Q2/2024</td>
+				<td>Q2/2023/24/25</td>
 				<td>Simulation of Injection Molding</td>
 				<td>BSc-ME</td>
 			</tr>
 			<tr>
-				<td>05/2023, 05/2024</td>
+				<td>05/2023/24/25</td>
 				<td>Elastomer Science and Engineering</td>
 				<td>MSc-ME</td>
 			</tr>
 			<tr>
-				<td>07/2024, 07/2025</td>
+				<td>07/2024/25</td>
 				<td>Matching Day ME - Statics</td>
 				<td>BSc-ME</td>
 			</tr>

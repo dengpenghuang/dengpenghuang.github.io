@@ -22,7 +22,7 @@ nav-menu: true
 				Filler Dispersion Analysis, Filler Modelling, Homogenization
 			</dd>
 			<br /> <!-- Add this line -->
-			<dt>Modelling and Testing in Macroscale</dt>
+			<dt>Thermo-viscoelasticity, Dynamic Mechanical Analysis, Temperature Scanning Stress Relaxation </dt>
 			<dd>
 				D. Huang, A Blume. Modeling and characterization of thermo-viscoelastic behavior of rubber compounds. Journal of Materials Research and Technology, 39(2025):8024-8034.
 				<ul class="actions">
@@ -41,7 +41,7 @@ nav-menu: true
 <section id="two">
 	<div class="inner">
 		<header class="major">
-			<h2>Dielectric Elastomers for Soft Robotics</h2>
+			<h2>Dielectric Elastomers for Soft Robotic Dynamics</h2>
 		</header>
 		<span class="image left"><img src="{% link assets/images/dea.jpg %}" alt="" /></span> 
 	<dl> 
@@ -91,7 +91,7 @@ nav-menu: true
 <section id="four">
 	<div class="inner">
 	<header class="major">
-			<h2>Simulation of metal cutting processes</h2>
+			<h2>Simulation of Metal Cutting Processes</h2>
 		</header>
 	<span class="image left"><img src="{% link assets/images/cut170.jpg %}" alt="" /></span> 
 	<dl> 

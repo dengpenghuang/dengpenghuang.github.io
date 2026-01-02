@@ -127,19 +127,19 @@
 
 			&:nth-child(6n - 2) {
 				&:before {
-					background-color: _palette(bg1);
+					background-color: _palette(highlight);
 				}
 			}
 
 			&:nth-child(6n - 1) {
 				&:before {
-					background-color: _palette(bg1);
+					background-color: _palette(highlight);
 				}
 			}
 
 			&:nth-child(6n) {
 				&:before {
-					background-color: _palette(bg1);
+					background-color: _palette(highlight);
 				}
 			}
 		}

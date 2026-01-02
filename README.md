@@ -15,7 +15,8 @@ edit content in .md files:
 
 color, size and font are defined in "/_sass"
 	color of DH name and menu are defined in header.scss
-	
+
+bullet potins: <li> </li>
 -------------------------------------------------------------
 # Forty - Jekyll Theme
 
